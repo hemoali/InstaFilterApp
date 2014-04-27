@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InstaFilter</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to InstaFilter</string>
+	<string name="cityNameHint">City Name...</string>
+	<string name="showMore">↓ Show More ↓</string>
+    
+</resources>
